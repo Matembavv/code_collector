@@ -1,6 +1,6 @@
 # Code Collector
 
-A script for collecting project source code into a single text file. Recursively traverses project directories, collects files with specified extensions, and saves their contents into one output file. Ignores files and folders based on `.gitignore` and configuration settings.
+A simple script for collecting project source code into a single text file. Recursively traverses project directories, collects files with specified extensions, and saves their contents into one output file. Ignores files and folders based on `.gitignore` and configuration settings.
 
 ## How It Works
 
