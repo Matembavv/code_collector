@@ -1,0 +1,8 @@
+{
+    "project_root": "./",
+    "output_file": "",
+    "output_base_name": "collection",
+    "file_extensions": [".py", ".js", ".html", ".css", ".java", ".cpp", ".h"],
+    "exclude_folders": [],
+    "additional_ignore_patterns": ["*.min.js", "*.min.css"]
+}
